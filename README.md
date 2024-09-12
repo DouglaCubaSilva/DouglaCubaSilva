@@ -1,12 +1,12 @@
 ### Ola Amigo 👋 , Sou o Douglas Silva. Entre os amigos apenas Doug!
+### Hello Friend👋 , I'm Douglas Silva. Among friends, just Doug! 
 
-## Bem Vindo ao meu Perfil
+## Bem Vindo!! - You are Welcome!!
 
-## Estou Trabalhando com: 
+## Estou Trabalhando com: - I'm working with:
 AppSec | DevSecOps | PenTest
 
-## Posso ser encontrado em:
-
+## Posso ser encontrado em: - I can be found:
 <div>
 <!--
 <a href="https://www.youtube.com/channel/UCmanOo1tyiqnlft2fbaRg2A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@ AppSec | DevSecOps | PenTest
 <a href="https://www.linkedin.com/in/douglas-fernando-silva-34567433/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Tecnologias que utilizo
+# Tecnologias que utilizo: - Technologies I use:
 <div>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
@@ -24,12 +24,13 @@ AppSec | DevSecOps | PenTest
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
           
 
-# Estou estudando:
+# Estou estudando: - I'm studying
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
