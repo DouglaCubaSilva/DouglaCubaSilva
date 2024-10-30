@@ -1,4 +1,3 @@
-### Ola Amigo 👋 , Sou o Douglas Silva. Entre os amigos apenas Doug!
 ### Hello Friend👋 , I'm Douglas Silva. Among friends, just Doug! 
 
 ## Bem Vindo!! - You are Welcome!!
